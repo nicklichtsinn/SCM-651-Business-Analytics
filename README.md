@@ -1,6 +1,6 @@
 # SCM-651-Business-Analytics
 
-Compilation of projects completed for a Business Analytics course throught the Whitman Business School for the MS in Applied Data Science at Syracuse University
+Compilation of projects completed for a Business Analytics course through the Whitman Business School for the MS in Applied Data Science at Syracuse University
 
 The course learning objectives include:
 
